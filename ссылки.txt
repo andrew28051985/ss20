@@ -1,0 +1,31 @@
+1 урок Разбор макета
+
+- скачать программу Figma https://www.figma.com
+- знакомство с программой   https://www.youtube.com/watch?v=aQO_XjHYq8I&feature=youtu.be
+- макет в Dropbox https://www.dropbox.com/sh/1tmv0fvofirp8fj/AABLbA-dWZlioPazLKaHKkAoa?dl=0
+
+2 урок Верстка первого блока
+
+- VS Code https://code.visualstudio.com/
+- Emmet VS Code (есть по умолчанию в программе VSCode) https://code.visualstudio.com/docs/editor/emmet
+- Шрифты https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans|Oswald:500
+- Normalize https://cdnjs.com/libraries/normalize
+- Названия классов http://tpverstak.ru/common-css-class-names/
+
+3 урок Вёрстка центрального блока
+
+- PerfectPixel https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru
+- Шпаргалка Flexbox http://tpverstak.ru/flex-cheatsheet/
+- Шпаргалка Grid CSS http://tpverstak.ru/grid/
+
+4 урок Вёрстка футера
+
+- нет доп материалов
+
+5 Адаптив сайта
+
+- Единицы измерения 1 https://www.youtube.com/watch?v=dPzoBD2Z68A
+- Единицы измерения 2 https://www.youtube.com/watch?v=ZuSIlE9jj2k
+- Итоговый сайт Анны Блок  http://tpverstak.ru/live/super-start/
+
+
